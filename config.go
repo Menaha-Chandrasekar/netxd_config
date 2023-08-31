@@ -3,7 +3,7 @@ package config
 import (
 	"context"
 	"fmt"
-	constants "module/netxd_constants"
+	constants "github.com/Menaha-Chandrasekar/netxd_constants"
 
 	"log"
 	"time"
