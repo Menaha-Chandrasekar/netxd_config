@@ -1,5 +1,5 @@
-github.com/Menaha-Chandrasekar/netxd_constants v0.0.0-20230831051308-8452da1da808 h1:1ZEVyloDKdHzF5eUtxlKkjR3Po2v0seYxwzNeG4klJI=
-github.com/Menaha-Chandrasekar/netxd_constants v0.0.0-20230831051308-8452da1da808/go.mod h1:pN2rjztGWg2Z9bVMX4NlQDpUqbeLBqggiWbZm1V2Itc=
+github.com/Menaha-Chandrasekar/netxd_constants v1.0.1 h1:bwR3LpGRWBMtEHICwgfzPTfQrGTRX3FyyuykAdNp3lk=
+github.com/Menaha-Chandrasekar/netxd_constants v1.0.1/go.mod h1:KsFSjXr8wIhMnuuWyY4EQZuGT8qSqaH/KceAa7Nx8UI=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/snappy v0.0.1 h1:Qgr9rKW7uDUkrbSmQeiDsGa8SjGyCOGtuasMWwvp2P4=

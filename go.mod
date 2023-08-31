@@ -3,7 +3,7 @@ module github.com/Menaha-Chandrasekar/netxd_config
 go 1.20
 
 require (
-	github.com/Menaha-Chandrasekar/netxd_constants v0.0.0-20230831051308-8452da1da808
+	github.com/Menaha-Chandrasekar/netxd_constants v1.0.1
 	go.mongodb.org/mongo-driver v1.12.1
 )
 
